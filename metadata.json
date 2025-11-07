@@ -1,0 +1,7 @@
+{
+  "name": "NonProfit Assistant",
+  "description": "An AI-powered assistant for legal and administrative tasks in Morocco, developed by El Mehdi Ait Aissa. Features compliant chat, document analysis with scanning, and generation of administrative/legal documents.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
